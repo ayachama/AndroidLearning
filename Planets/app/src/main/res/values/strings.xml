@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Planets - ListView &amp; Fragments</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment_1">Fragment 1</string>
+    <string name="hello_blank_fragment_2">Fragment 2</string>
+    <string name="hello_blank_fragment_3">Fragment 3</string>
+
+</resources>
